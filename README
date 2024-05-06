@@ -1,0 +1,16 @@
+# RF
+
+- [X] O Usuario deve poder criar uma nova transação;
+- [] O Usuario deve poder obter um resumo da sua conta;
+- [X] O usuario deve poder listar todas as transaçoes que já ocorreram;
+- [X] O Usuario deve poder visualizar umatransação unica;
+
+# RN
+
+- [X] A transação pode ser do tipo credito que somara ao valor total, ou debito subtrairá;
+- [] Deve ser possivel identificarmos o usuario entre as requisiçoes;
+- [] O Usuario so pode visualizar transaçoes o qual ele criou;
+
+# RNF
+
+
